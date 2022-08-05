@@ -1,4 +1,4 @@
-# shaoji-approciate-vue
+# shaoji-appreciate-vue
 
 ## Project setup
 ```
